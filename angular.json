@@ -27,9 +27,40 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/user/css/bootstrap.css",
+              "src/assets/user/css/font-awesome.min.css",
+              "src/assets/user/css/style.css",
+              "src/assets/user/css/responsive.css",
+              "src/assets/admin/vendors/feather/feather.css",
+              "src/assets/admin/vendors/mdi/css/materialdesignicons.min.css",
+              "src/assets/admin/vendors/ti-icons/css/themify-icons.css",
+              "src/assets/admin/vendors/typicons/typicons.css",
+              "src/assets/admin/vendors/simple-line-icons/css/simple-line-icons.css",
+              "src/assets/admin/vendors/css/vendor.bundle.base.css",
+              
+              "src/assets/admin/css/vertical-layout-light/style.css"
+              
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/user/js/jquery-3.4.1.min.js",
+              "src/assets/user/js/popper.min.js",
+              "src/assets/user/js/bootstrap.js",
+              "src/assets/user/js/custom.js",
+              
+              "src/assets/admin/vendors/js/vendor.bundle.base.js",
+              "src/assets/admin/vendors/chart.js/Chart.min.js",
+              "src/assets/admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js",
+              "src/assets/admin/vendors/progressbar.js/progressbar.min.js",
+              "src/assets/admin/js/off-canvas.js",
+              "src/assets/admin/js/hoverable-collapse.js",
+              "src/assets/admin/js/template.js",
+              "src/assets/admin/js/settings.js",
+              "src/assets/admin/js/todolist.js",
+              "src/assets/admin/js/dashboard.js",
+              "src/assets/admin/js/Chart.roundedBarCharts.js"
+              
+            ]
           },
           "configurations": {
             "production": {
