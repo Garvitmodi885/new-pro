@@ -32,14 +32,17 @@
               "src/assets/user/css/font-awesome.min.css",
               "src/assets/user/css/style.css",
               "src/assets/user/css/responsive.css",
-              "src/assets/admin/vendors/feather/feather.css",
-              "src/assets/admin/vendors/mdi/css/materialdesignicons.min.css",
-              "src/assets/admin/vendors/ti-icons/css/themify-icons.css",
-              "src/assets/admin/vendors/typicons/typicons.css",
-              "src/assets/admin/vendors/simple-line-icons/css/simple-line-icons.css",
-              "src/assets/admin/vendors/css/vendor.bundle.base.css",
+             
               
-              "src/assets/admin/css/vertical-layout-light/style.css"
+              "src/assets/admin/plugins/fontawesome-free/css/all.min.css",
+              "src/assets/admin/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css",
+              "src/assets/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css",
+              "src/assets/admin/plugins/jqvmap/jqvmap.min.css",
+              "src/assets/admin/dist/css/adminlte.min.css",
+              "src/assets/admin/plugins/overlayScrollbars/css/OverlayScrollbars.min.css",
+              "src/assets/admin/plugins/daterangepicker/daterangepicker.css",
+              "src/assets/admin/plugins/summernote/summernote-bs4.min.css"
+             
               
             ],
             "scripts": [
@@ -48,17 +51,23 @@
               "src/assets/user/js/bootstrap.js",
               "src/assets/user/js/custom.js",
               
-              "src/assets/admin/vendors/js/vendor.bundle.base.js",
-              "src/assets/admin/vendors/chart.js/Chart.min.js",
-              "src/assets/admin/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js",
-              "src/assets/admin/vendors/progressbar.js/progressbar.min.js",
-              "src/assets/admin/js/off-canvas.js",
-              "src/assets/admin/js/hoverable-collapse.js",
-              "src/assets/admin/js/template.js",
-              "src/assets/admin/js/settings.js",
-              "src/assets/admin/js/todolist.js",
-              "src/assets/admin/js/dashboard.js",
-              "src/assets/admin/js/Chart.roundedBarCharts.js"
+        "src/assets/admin/plugins/jquery/jquery.min.js",
+        "src/assets/admin/plugins/bootstrap/js/bootstrap.bundle.min.js",
+        "src/assets/admin/plugins/chart.js/Chart.min.js",
+        "src/assets/admin/plugins/sparklines/sparkline.js",
+        "src/assets/admin/plugins/jqvmap/jquery.vmap.min.js",
+        "src/assets/admin/plugins/jqvmap/maps/jquery.vmap.usa.js",
+        "src/assets/admin/plugins/jquery-knob/jquery.knob.min.js",
+        "src/assets/admin/plugins/moment/moment.min.js",
+        "src/assets/admin/plugins/daterangepicker/daterangepicker.js",
+        "src/assets/admin/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js",
+        "src/assets/admin/plugins/summernote/summernote-bs4.min.js",
+        "src/assets/admin/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js",
+        "src/assets/admin/dist/js/adminlte.js",
+        "src/assets/admin/dist/js/demo.js",
+        "src/assets/admin/dist/js/pages/dashboard.js"
+
+
               
             ]
           },
