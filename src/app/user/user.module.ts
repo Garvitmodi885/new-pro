@@ -5,6 +5,7 @@ import { UserRoutingModule } from './user-routing.module';
 import { UserComponent } from './user.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { SilderComponent } from './shared/silder/silder.component';
+import { HomeComponent } from './pages/home/home.component';
 
 
 
@@ -13,6 +14,7 @@ import { SilderComponent } from './shared/silder/silder.component';
     UserComponent,
     HeaderComponent,
     SilderComponent,
+    HomeComponent,
    
   ],
   imports: [

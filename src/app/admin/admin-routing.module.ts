@@ -5,6 +5,7 @@ import { AddCategoryComponent } from './pages/add-category/add-category.componen
 import { AddProductComponent } from './pages/add-product/add-product.component';
 import { CategoryComponent } from './pages/category/category.component';
 import { DashComponent } from './pages/dash/dash.component';
+import { LoginComponent } from './pages/login/login.component';
 import { ProductComponent } from './pages/product/product.component';
 
 const routes: Routes = [
@@ -31,6 +32,10 @@ const routes: Routes = [
       {
         path : "add-product",
         component : AddProductComponent
+      },
+      {
+        path : "login",
+        component : LoginComponent
       }
     ]
   }
